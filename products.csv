@@ -1,0 +1,9 @@
+product_id,product_name_detail,product_category,product_brand,unit_price,interest_rate
+1,Cuenta Ahorro,Cuenta,BancoPlus,100,0.02
+2,Cuenta Corriente,Cuenta,BancoPlus,30,0.01
+3,Tarjeta Crédito Clásica,Tarjeta,Visa,50,0.15
+4,Tarjeta Crédito Oro,Tarjeta,Mastercard,100,0.18
+5,Préstamo Personal,Préstamo,BancoPlus,500,0.12
+6,Préstamo Hipotecario,Préstamo,BancoPlus,1000,0.08
+7,Depósito a Plazo,Inversión,BancoPlus,720,0.05
+8,Fondo Mutuo Conservador,Inversión,BancoPlus,350,0.06
